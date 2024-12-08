@@ -1,0 +1,14 @@
+{
+  "name": "blogs-app",
+"version": "1.0.0",
+"type": "module",
+"main": "index.js",
+"scripts": {
+    "start": "node index.js"
+},
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4"
+  }
+}
